@@ -33,3 +33,6 @@ https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitt
 
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+# Special1
+https://filters.adtidy.org/extension/ublock/filters/13.txt
